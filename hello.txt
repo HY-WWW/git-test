@@ -1,1 +1,2 @@
 hello, my Git!
+我学会提交Git了！
