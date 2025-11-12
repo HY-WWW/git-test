@@ -1,3 +1,2 @@
-hello, my Git!
-我学会提交Git了！
-hot fix test
+hello git! hello dsbigdata! hot-fix test
+GitHub
